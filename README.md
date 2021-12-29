@@ -6,7 +6,7 @@ desc: Frontend implementaton of an pomodoro timer website
 
 link: https://nkljov.github.io/pomodoro-front-app/
 
-test user: email: test@gmail.com  password: test
+test user: email: test  password: test
 
 author: Nikola Jovicic(2021)
 
