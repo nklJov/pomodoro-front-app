@@ -1,0 +1,22 @@
+.todo-div{
+    border-bottom: 1px solid rgb(177, 177, 177);
+    border-radius: 5px;
+    padding: 3px 12px;
+    margin: 4px 5px;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.welcome{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+    color: tomato;
+}
+
+.todo{
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+    color: tomato;
+}

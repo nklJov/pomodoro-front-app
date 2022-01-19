@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pomodoro-front-app/static/css/main.c4960816.css",
+    "main.js": "/pomodoro-front-app/static/js/main.f96c26b7.js",
+    "index.html": "/pomodoro-front-app/index.html",
+    "main.c4960816.css.map": "/pomodoro-front-app/static/css/main.c4960816.css.map",
+    "main.f96c26b7.js.map": "/pomodoro-front-app/static/js/main.f96c26b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4960816.css",
+    "static/js/main.f96c26b7.js"
+  ]
+}
